@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs / temp
+*.log
+*.tmp
+
+# OS/editor extras
+.vscode/
+
+# Large/raw corpora and archives (keep out of git)
+en_BDNews24/
+en_TheTelegraph_2001-2010/
+data/archives/*.tgz
+data/archives/*.tar
+data/archives/*.tar.gz
+data/archives/*.gpg
+
+# Intermediate/derived XML and indexes
+outputs/repaired_xml/
+outputs/indexes/
+
+# Temporary sweep run output
+outputs/runs/_bm25_sweep_tmp.tsv

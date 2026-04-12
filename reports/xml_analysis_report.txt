@@ -1,0 +1,31 @@
+================================================================================
+XML STRUCTURE ANALYSIS REPORT
+================================================================================
+
+ANALYSIS DATE: 2024
+ANALYZED COLLECTIONS:
+  - BDNews24: 89286 files
+  - Telegraph: Compressed archive
+
+================================================================================
+BDNEWS24 COLLECTION VALIDATION RESULTS
+================================================================================
+
+Total Files Analyzed: 89286
+Valid XML Files: 86357
+Invalid XML Files: 2929
+Validity Rate: 96.72%
+
+Error Type Summary:
+  - ParseError: 2929
+
+⚠ RESULT: 2929 files need review
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+1. Review invalid XML files (2929 total)
+2. Check encoding and special characters
+3. Extract and analyze Telegraph collection
+4. Standardize XML structure across collections
