@@ -7,6 +7,10 @@ This repository contains my complete CS4201 assignment workflow for large-scale 
 
 At the beginning, the dataset was treated as a provided course corpus with two English news collections. During evaluation setup, after topics and qrel discovery from the official task page, it was mapped to the FIRE 2012 English Adhoc track.
 
+> [!WARNING]
+> If you read this repo to do your assignment and do not give it a star, this poor dev gets sad 😢
+> Help this poor dev and drop a star please ⭐🙏
+
 ## 1. Assignment Deliverables
 
 Required deliverables for submission:
