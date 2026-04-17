@@ -34,3 +34,6 @@ outputs/indexes/
 
 # Temporary sweep run output
 outputs/runs/_bm25_sweep_tmp.tsv
+
+# Maven build output
+java_lucene_implementation/target/
